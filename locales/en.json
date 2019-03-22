@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "NUXT Builerplate",
+    "introduction": "This is an introduction in English."
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout"
+  }
+}

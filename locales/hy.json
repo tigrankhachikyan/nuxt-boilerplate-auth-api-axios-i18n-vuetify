@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Նոր NUXT",
+    "introduction": "This is an introduction in English."
+  },
+  "auth": {
+    "login": "Մուտք",
+    "logout": "Ելք"
+  }
+}

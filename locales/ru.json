@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Проект NUXT",
+    "introduction": "This is an introduction in English."
+  },
+  "auth": {
+    "login": "Войти",
+    "logout": "Выйти"
+  }
+}
